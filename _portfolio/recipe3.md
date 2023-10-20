@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: 탄소와 산소와 수소
+  subtitle: 만나면 에탄올
+  thumbnail: assets/img/portfolio/CH3OH.jpg
   
 #what displays when the item is clicked:
 title: Title
